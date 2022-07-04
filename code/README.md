@@ -1,4 +1,4 @@
-# cnode
+# code
 
 ## Project setup
 ```
